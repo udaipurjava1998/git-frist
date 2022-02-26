@@ -1,4 +1,4 @@
-package variable;
+package variable;    // 2 VARIABLE IN CLASS AND 1 VARIBLE IN LOCAL 
 
 public class abcDemo {
 
