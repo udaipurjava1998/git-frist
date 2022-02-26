@@ -1,4 +1,4 @@
-package variable;
+package variable;              // Staic variable 
 
 public class static1 {
 

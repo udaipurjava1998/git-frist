@@ -10,7 +10,7 @@ private static void  abc() {                 // method
 	System.out.println("----" + "sitaram");
 }
 
-public static void xyz()  {
+public static void xyz()  {                // method  
 	System.out.println("jay" + "sitaram");
 }
 
